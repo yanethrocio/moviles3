@@ -1,0 +1,37 @@
+<resources>
+    <string name="title_activity_v3_pregunta_main">Preguntas</string>
+    <string name="title_activity_v2_atencion_main">Atenciones Realizadas</string>
+    <string name="title_activity_v4_alternativa_main">Alternativas</string>
+
+    <string name="app_name"> Clinica SMM </string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_note_detail">Note Detail</string>
+
+    <!-- valores de la app -->
+    <string name="app_login_usuario">usuario</string>
+    <string name="app_login_password">password</string>
+
+    <!-- Menu titles
+    <string name="long_press_menu_title">Editar</string>
+    <string name="titble_save_btn">Guardar</string>
+    <string name="new_note_option">Nueva</string>
+    <string name="title_view_fragment">Reproducir Pregunta</string>
+    <string name="title_edit_fragment">Editar Pregunta</string>
+    <string name="title_create_fragment">Nueva</string>
+    <string name="long_press_menu_delete_title">Eliminar</string>
+    <string name="title_activity_categorias">Encuesta Paciente</string>
+    <string name="title_activity_explorador_archivos">ExploradorArchivos</string>
+    <string name="titulo_reporte">Reporte</string>
+    -->
+    <string name="categories_option">Categorias</string>
+
+    <string name="id_label">The ID is</string>
+    <string name="id_value">[id]</string>
+    <string name="content_label">The Content is</string>
+    <string name="content_value">[content]</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_v1_login">Login</string>
+</resources>
