@@ -1,3 +1,6 @@
+/*
+* Archivo modificado por HackerTeban
+* */
 package pe.com.csmm.aplicacionclientecsmm.Beans;
 
 import android.content.Context;
