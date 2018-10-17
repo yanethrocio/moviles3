@@ -1,3 +1,8 @@
+/*
+*archivo modificado por Cristian Berna
+ */
+
+
 package pe.com.csmm.aplicacionclientecsmm.Beans;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
