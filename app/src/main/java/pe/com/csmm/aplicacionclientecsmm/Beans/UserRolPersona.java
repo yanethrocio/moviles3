@@ -1,3 +1,7 @@
+/*
+ *  Archivo modificado por Daniela
+ * */
+
 package pe.com.csmm.aplicacionclientecsmm.Beans;
 
 /**
