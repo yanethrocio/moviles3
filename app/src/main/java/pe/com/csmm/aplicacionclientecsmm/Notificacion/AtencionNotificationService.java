@@ -1,3 +1,6 @@
+/*
+*Archivo modificado por Maycol
+ */
 package pe.com.csmm.aplicacionclientecsmm.Notificacion;
 
 import android.app.Notification;
